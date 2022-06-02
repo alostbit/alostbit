@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alostbit
-- 👀 I’m interested in ... data viz (mainly Tableau), ETL, Raspberry Pi, Python, Glitch Art, Drones, Music
-- 🌱 I’m currently learning ... Python, Fivetran, Raspberry Pi sensor logging
+- 👀 I’m interested in ... data viz, ETL, Raspberry Pi, Python, Glitch Art, Drones, Music
+- 🌱 I’m currently learning ... D3, MapBox, Python, Fivetran, Raspberry Pi sensor logging
 - 💞️ I’m looking to collaborate on ... data viz projects
 - 📫 How to reach me ... stephen@lostbit.io
 <!---
